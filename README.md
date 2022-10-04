@@ -1,4 +1,4 @@
-# ** **
+# **Machine Learning With python with FreeCodeCamp**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
@@ -13,26 +13,13 @@ Download Additional Files :
 - [@Akash Kumar Jha](https://github.com/Akash1070)
 
 
-## Deployment
+## Projects
 
-  
-## Installation
-
-To install the libraries used in this project. Follow the 
-below steps:
-
-```bash
-
-
-```
-    
-## Running Flask Api
-
-To run tests, run the following command
-
-```bash
-  python app.py
-```
+  1. Book Recommendation Engine using KNN
+  2. Cat and Dog Image Classifier
+  3. Linear Regression Health Costs Calculator
+  4. Neural Network SMS Text Classifier
+  5. Rock Paper Scissors
 
 ## 🚀 About Me
 
