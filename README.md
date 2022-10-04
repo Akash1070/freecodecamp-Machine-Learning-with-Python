@@ -1,9 +1,10 @@
 # **Machine Learning With python with FreeCodeCamp**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![TensorFlow](https://img.shields.io/badge/Library-tensorflow-orange.svg)
 
-Download Additional Files :
-• This repository consists of files required to deploy a 
+
+• This repository consists of files required to deploy following projects.
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
